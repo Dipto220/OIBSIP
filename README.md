@@ -1,1 +1,1 @@
-# OIBSIP. My first basic portfolio using HTML and CSS
+My first basic portfolio using HTML and CSS
